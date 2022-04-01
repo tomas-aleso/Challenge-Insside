@@ -30,7 +30,7 @@ public class ChallengeInssideApplication {
 
 		clientes.add(new Cliente("Tomas", "Aleso", 40238956, "Av Lafuente", "+54 1155231123"));
 		clientes.add(new Cliente("Juan", "Perez", 16923321, "Av Nazca", "+54 1155234431"));
-		clientes.add(new Cliente("Mariano", "Lopez", 40238956, "Av Gaona", "+54 1111233753"));
+		clientes.add(new Cliente("Mariano", "Lopez", 14233736, "Av Gaona", "+54 1111233753"));
 
 		ordenDeCompras.add(new ordenDeCompra(Arrays.asList("1", "2"), 40238956, 1));
 		ordenDeCompras.add(new ordenDeCompra(Arrays.asList("1", "2", "3"), 40238956, 2));
